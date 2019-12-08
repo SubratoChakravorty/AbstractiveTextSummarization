@@ -9,6 +9,8 @@ notebook to load the dataset, preprocess text and create training and validation
 ### inference_seq2seqmodel.ipynb:
 notebook to load the dataset, preproces text and create training and validation set and load the trained model and predict summaries. Contains examples where model works well and some examples where model fails.
 
-## Good Examples
+![Screenshot](https://github.com/SubratoChakravorty/AbstractiveTextSummarization/blob/master/figures/good_examples.png)
 
+![Screenshot](https://github.com/SubratoChakravorty/AbstractiveTextSummarization/blob/master/figures/bad_examples.png)
 
+![Screenshot](https://github.com/SubratoChakravorty/AbstractiveTextSummarization/blob/master/figures/try_your_own.png)
